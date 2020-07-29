@@ -15,7 +15,7 @@
 
 
 <br />
-
+I'm a Software Engineer who loves to work with any technology that comes in the way. An Ex-DSC Lead by [@Google Developers](https://developers.google.com/community/dsc/leads) and an open-source contributer and a researcher.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" />
