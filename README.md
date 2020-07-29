@@ -18,7 +18,7 @@
 
 
 
-<img align="right" alt="GIF" src="coding.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
