@@ -15,7 +15,7 @@ A ***dietician*** :meat_on_bone:
 All time ***researcher*** :detective:  
 Ask me ***anything*** :ok_hand:  
 Always onto ***something*** :skull:  
-Have been complimented as ***Confucious of 21st Century*** :mage_man:
+Have been complemented as ***Confucious of 21st Century*** :mage_man:
 
 **Worked on:**
 
