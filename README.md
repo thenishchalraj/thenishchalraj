@@ -1,13 +1,21 @@
-### $> Hello :earth_asia:! I'm Nishchal Raj :alien:.
+# $> Hello :earth_asia:! I'm Nishchal Raj :alien:.
 ![](https://komarev.com/ghpvc/?username=thenishchalraj&color=blueviolet&style=flat-square)
 
 [![Linkedin Badge](https://img.shields.io/badge/-thenishchalraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thenishchalraj/)](https://www.linkedin.com/in/thenishchalraj/)  [![Twitter Badge](https://img.shields.io/badge/-thenishchalraj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thenishchalraj)](https://twitter.com/thenishchalraj)  [![Facebook Badge](https://img.shields.io/badge/-thenishchalraj-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/thenishchalraj)](https://www.facebook.com/thenishchalraj)  [![Instagram Badge](https://img.shields.io/badge/-thenishchalraj-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/thenishchalraj/)](https://www.instagram.com/thenishchalraj/)  [![Medium Badge](https://img.shields.io/badge/-thenishchalraj-000000?style=flat-square&labelColor=000000&logo=Medium&logoColor=white&link=https://www.medium.com/thenishchalraj/)](https://www.medium.com/@thenishchalraj/)
 
-A Software Engineer 👨🏽‍💻 who loves to work with any technology 🚀 that comes in the way. An Ex-<a href="https://developers.google.com/community/dsc/leads">DSC</a> Lead <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> and an open-source contributer and a researcher :mag_right:. 
+*A Software Engineer 👨🏽‍💻 who loves to work with any technology 🚀 and write about them :writing_hand:. An Ex-<a href="https://developers.google.com/community/dsc/leads">DSC</a> Lead <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> and an open-source contributer.*
 
 ---
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" />
+
+### More about me:
+A ***fitness trainer*** :weight_lifting:  
+A ***dietician*** :meat_on_bone:  
+All time ***researcher*** :detective:  
+Ask me ***anything*** :ok_hand:  
+Always onto ***something*** :skull:  
+Have been complimented as ***Confucious of 21st Century*** :mage_man:
 
 **Worked on:**
 
