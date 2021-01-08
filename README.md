@@ -45,9 +45,13 @@ Have been complemented as ***Confucious of 21st Century*** :mage_man:
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" alt="Terminal is <3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+---
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=thenishchalraj&column=7"/>
 </a>
+
+---
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thenishchalraj&count_private=true&include_all_commits=true" />
