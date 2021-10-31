@@ -48,7 +48,7 @@ Have been complemented as ***Confucious of 21st Century*** :mage_man:
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=thenishchalraj&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=thenishchalraj&column=7&theme=onedark"/>
 </a>
 
 ---
