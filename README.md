@@ -65,3 +65,15 @@ Have been complemented as ***Confucious of 21st Century*** :mage_man:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thenishchalraj&repo=PasswordStrengthBar&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </div>
+
+---
+
+#### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/1" alt="Latest medium article"> </a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thenishchalraj/2" alt="Latest medium article"> </a>
