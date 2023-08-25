@@ -18,9 +18,10 @@ Have been complemented as ***Confucious of 21st Century*** :mage_man:
 
 **Worked on:**
 
+<code><img height="40" alt="Flutter" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4"></code>
+<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="React.js" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
-<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -32,7 +33,6 @@ Have been complemented as ***Confucious of 21st Century*** :mage_man:
 <code><img height="40" alt="Blockchain" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/blockchain-5-539188.png"></code>
 <code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="40" alt="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="40" alt="JavaScript" src="https://efthymis.com/wp-content/uploads/2019/02/Icon-App-1024x1024@1x.png"></code>
 <code><img height="40" alt="Golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
