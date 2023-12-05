@@ -8,13 +8,13 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" />
 
-### More about me:
+<!--### More about me:
 A ***fitness trainer*** :weight_lifting:  
 A ***dietician*** :meat_on_bone:  
 All time ***researcher*** :detective:  
 Ask me ***anything*** :ok_hand:  
 Always onto ***something*** :skull:  
-Have been complemented as ***Confucious of 21st Century*** :mage_man:
+Have been complemented as ***Confucious of 21st Century*** :mage_man:-->
 
 **Worked on:**
 
